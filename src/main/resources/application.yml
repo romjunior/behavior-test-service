@@ -1,0 +1,4 @@
+url:
+  balance: http://localhost:5000
+  credit-card: http://localhost:5000
+  debit-card: http://localhost:5000

@@ -1,0 +1,4 @@
+url:
+  balance: http://localhost:${wiremock.server.port}
+  credit-card: http://localhost:${wiremock.server.port}
+  debit-card: http://localhost:${wiremock.server.port}

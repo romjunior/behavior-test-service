@@ -1,0 +1,16 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/debit/limit/a2"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody": {
+      "available": 130.00,
+      "used": 130.00
+    }
+  }
+}
